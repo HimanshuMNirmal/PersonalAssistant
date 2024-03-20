@@ -1,0 +1,20 @@
+scikit-learn
+numpy
+nltk
+wikipedia
+SpeechRecognition
+PyQt5
+pyttsx3
+requests
+bs4
+spacy
+python -m spacy download en_core_web_sm
+geocoder
+geopy
+spotify
+pyautogui
+psutil
+selenium
+num2words
+pywhatkit
+Leap

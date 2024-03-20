@@ -1,0 +1,24 @@
+current time - done
+interenet connection - done
+find in wikipedia - done
+adding GUI - donef
+wheather update (suitable cloth) [not] - done
+calender integration - done
+open drives - done
+to do list (one type of reminder) - 
+whatsapp msg automation - 
+navigation assistant - 
+daily updates - 
+match live score - 
+entertainment recommandation - 
+browser automation - 
+trip planning recommandation - 
+shopping assistant - 
+sentimental responce -
+multilanguage support -
+recipe integration -
+computer controll with gesture -
+switching modes of input - 
+
+light control with voice - 
+play music by spotify - 
